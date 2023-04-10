@@ -1,0 +1,3 @@
+class InputValue
+  
+end

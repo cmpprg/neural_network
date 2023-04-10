@@ -1,0 +1,3 @@
+class WeightAdjustmentFunction
+  
+end
